@@ -1,0 +1,32 @@
+
+[
+
+  {
+    "name": "Yuengling",
+    "type": "lager",
+    "price": "6.99",
+    "photo": "http://www.beerpulse.com/wp-content/uploads/2018/03/Yuengling-Kentucky-banner-BeerPulse-575x575.jpg"
+  },
+
+  {
+    "name": "Miller Light",
+    "type": "light draft",
+    "price": "5.99",
+    "photo": "http://www.adweek.com/agencyspy/wp-content/uploads/sites/7/2016/02/miller-lite-can-2.jpg"
+  },
+
+  {
+    "name": "Budweiser",
+    "type": "draft",
+    "price": "6.99",
+    "photo": "https://cleantechnica.com/files/2018/01/Budweiser.jpg"
+  },
+
+  {
+    "name": "Guiness",
+    "type": "irish stout",
+    "price": "7.99",
+    "photo": "http://allaboutbeer.com/wp-content/uploads/2016/06/Guinness-Stout.jpg"
+  }
+  
+]

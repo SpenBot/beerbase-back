@@ -1,0 +1,51 @@
+
+[
+
+  {
+    "username": "Spen",
+    "favorites": [
+      {
+        "beerId": "5ad7abf410d27f7914fe29e1",
+        "comments": [
+          {
+            "title": "first",
+            "body": "I'm drinking a yuengling right now to celebrate."
+          },
+          {
+            "title": "second",
+            "body": "Seriously hope this works."
+          }
+        ]
+      },
+      {
+        "beerId": "5ad7abf410d27f7914fe29e2",
+        "comments": [
+          {
+            "title": "sometime",
+            "body": "I do sometimes, when I feel like a light beer."
+          }
+        ]
+      }
+    ],
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lhe5pawFQot77VS56FhiQYIKqoZMRZ4vO8Oatg1f46fMJArMdw"
+  },
+
+  {
+    "username": "Rody",
+    "favorites": [
+      {
+        "beerId": "5ad7abf410d27f7914fe29e3",
+        "comments": [
+          {
+            "title": "dog",
+            "body": "I'm a puppy and I don't drinks the beer but my dad does."
+          }
+        ]
+      }
+    ],
+    "photo": "https://image.flaticon.com/icons/svg/64/64437.svg"
+  }
+
+
+
+]

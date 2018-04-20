@@ -1,0 +1,27 @@
+
+[
+
+  {
+    "username": "Spen",
+    "favorites": [
+      {
+        "beerId": "5ada162d0d57b227c4a74bf5"
+      },
+      {
+        "beerId": "5ada162d0d57b227c4a74bf6"
+      }
+    ],
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lhe5pawFQot77VS56FhiQYIKqoZMRZ4vO8Oatg1f46fMJArMdw"
+  },
+
+  {
+    "username": "Rody",
+    "favorites": [
+      {
+        "beerId": "5ada162d0d57b227c4a74bf7"
+      }
+    ],
+    "photo": "https://image.flaticon.com/icons/svg/64/64437.svg"
+  }
+
+]
