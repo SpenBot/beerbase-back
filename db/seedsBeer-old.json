@@ -2,6 +2,41 @@
 [
 
   {
+    "name": "Blue Moon",
+    "type": "belgian",
+    "price": "8.99",
+    "photo": "https://www.sobeliquorstore.com/wp-content/uploads/2016/05/Blue-Moon-Beer-1.jpg"
+  },
+
+  {
+    "name": "Dogfish Head 60 Minute IPA",
+    "type": "ipa",
+    "price": "9.99",
+    "photo": "http://cdn3.volusion.com/t9kpk.gakw4/v/vspfiles/photos/b-dogfish60minuteipa12oz6PK-2.jpg"
+  },
+
+  {
+    "name": "Samuel Adams Winter Lager",
+    "type": "lager",
+    "price": "7.99",
+    "photo": "http://www.bruguru.com/winterlager.jpg"
+  },
+
+  {
+    "name": "Brooklyn Lager",
+    "type": "lager",
+    "price": "7.78",
+    "photo": "https://cdn.homebrewersassociation.org/wp-content/uploads/NY-brooklyn-lager.jpg"
+  },
+
+  {
+    "name": "Sierra Nevada",
+    "type": "lager",
+    "price": "7.44",
+    "photo": "https://www.brewersfriend.com/images/2/8/5/4/6/snpale-769.jpg"
+  },
+
+  {
     "name": "Yuengling",
     "type": "lager",
     "price": "6.99",
@@ -28,5 +63,5 @@
     "price": "7.99",
     "photo": "http://allaboutbeer.com/wp-content/uploads/2016/06/Guinness-Stout.jpg"
   }
-  
+
 ]
